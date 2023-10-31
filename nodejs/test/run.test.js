@@ -8,7 +8,7 @@ describe(function () {
 })
 
 describe(function () {
-    it.allowFail('flaky test', function () {
+    it.allowFail("flaky test", function () {
         //assert.ok(false);
         assert(Math.random() > 0.5)
     });

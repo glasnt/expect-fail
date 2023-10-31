@@ -5,3 +5,7 @@ __pycache__/
 
 # node
 node_modules/
+
+
+# general
+.vscode/
